@@ -2,7 +2,9 @@
 Uses essential elements of Robotics, perception, decision making and Actuation to drive a rover Autonomously
 
 <p align="center">
-  <img src="" width="750px" height="400px"/></p>
+  <img src="https://github.com/ashutoshtiwari13/RoverWorld-perception-Control/blob/master/SimulationOutput/simulate1.gif" width="750px" height="400px"/></p>
+
+  
 
 ### Project Details
 
